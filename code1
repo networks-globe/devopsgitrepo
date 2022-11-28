@@ -1,2 +1,6 @@
 this is code1
+<<<<<<< HEAD
 2nd line
+=======
+chnages from branch1
+>>>>>>> branch1
